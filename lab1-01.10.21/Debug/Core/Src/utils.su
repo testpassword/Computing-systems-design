@@ -1,0 +1,2 @@
+utils.c:4:6:is_btn_pressed	8	static
+utils.c:15:6:reset_LEDs	8	static
